@@ -36,7 +36,7 @@ Bay lúc giờ, phút (tự nhập). Hỏi bay đến Việt Nam là mấy giờ
 
 # Nhập giờ Mỹ + 14 giờ -> giờ Mỹ -> giờ Việt Nam
 
-7. In ra các số là ước của n đc nhập từ bàn phím.
+7. In ra các số là ước của n (tự nhiên) đc nhập từ bàn phím.
 n % i == 0 => i là ước của n
 VD: 6 -> 1, 2 , 3, 6
 VD: 9 -> 1, 3, 9

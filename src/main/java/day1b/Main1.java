@@ -7,7 +7,6 @@ public class Main1 {
         // Viết 1 chương trình nhập vào thông tin thời tiết
         // Nếu bão, khẩn cấp: "Hoãn bay"
         // Còn lại là vẫn bay bình thương
-
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập thời tiết: ");
         String thoiTiet = scanner.nextLine();

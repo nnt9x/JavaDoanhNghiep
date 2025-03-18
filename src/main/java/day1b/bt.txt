@@ -26,3 +26,8 @@ VD: 8h00 -> 8h00 AM
 
 Input: giờ (0-23), phút (0-59)
 Output: quy đổi giờ 24 -> 12h
+
+6. Một chuyến bay xuất phát từ Mỹ sang Việt Nam hết 14h.
+Bay lúc giờ, phút (tự nhập). Hỏi bay đến Việt Nam là mấy giờ?
+
+VD: 10h30 Mỹ -> sang Việt Nam là mấy giờ ?

@@ -36,4 +36,14 @@ Bay lúc giờ, phút (tự nhập). Hỏi bay đến Việt Nam là mấy giờ
 
 # Nhập giờ Mỹ + 14 giờ -> giờ Mỹ -> giờ Việt Nam
 
+7. In ra các số là ước của n đc nhập từ bàn phím.
+n % i == 0 => i là ước của n
+VD: 6 -> 1, 2 , 3, 6
+VD: 9 -> 1, 3, 9
+
+8. Vừa gà vừa chó, 36 con, bó lại cho tròn, 100 chân chẵn.
+Hỏi số gà, số chó là bao nhiêu?
+
+9. Đổi 50 nghìn ra các mệnh giá 1k, 2k, 5k. Hỏi có bao TH ?
+x + 2y + 5z = 50
 

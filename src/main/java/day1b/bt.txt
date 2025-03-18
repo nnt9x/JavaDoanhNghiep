@@ -19,3 +19,10 @@ số lương nhận được.
 # Output: lương
 # lương cs 10tr, với 3 bậc lần lượt
 # 10tr, 13tr và 16,5tr
+
+5. Nhập vào giờ định dạng 24h, chuyển sang định dạng 12h
+VD: 16h30 -> 4h30 PM
+VD: 8h00 -> 8h00 AM
+
+Input: giờ (0-23), phút (0-59)
+Output: quy đổi giờ 24 -> 12h

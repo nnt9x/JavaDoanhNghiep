@@ -30,4 +30,10 @@ Output: quy đổi giờ 24 -> 12h
 6. Một chuyến bay xuất phát từ Mỹ sang Việt Nam hết 14h.
 Bay lúc giờ, phút (tự nhập). Hỏi bay đến Việt Nam là mấy giờ?
 
-VD: 10h30 Mỹ -> sang Việt Nam là mấy giờ ?
+# Mỹ -5, VN + 7
+# VD: 10h30 Mỹ -> sang Việt Nam là mấy giờ ?
+# Đổi 10h30 Mỹ -> Việt Nam 22h30 VN + 14 giờ bay = 12h30 phút
+
+# Nhập giờ Mỹ + 14 giờ -> giờ Mỹ -> giờ Việt Nam
+
+

@@ -1,8 +1,8 @@
-package day1b;
+package bt;
 
 import java.util.Scanner;
 
-public class Main3 {
+public class BT7 {
     public static void main(String[] args) {
         int n;
         Scanner scanner = new Scanner(System.in);

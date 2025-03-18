@@ -1,3 +1,5 @@
+package day1a;
+
 public class Main {
     public static void main(String[] args) {
         // Khai bao bien a = 5

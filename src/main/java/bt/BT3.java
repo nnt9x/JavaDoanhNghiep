@@ -16,7 +16,8 @@ public class BT3 {
             // Tinh toan
             double dt = chieuDai * chieuRong;
             double tien = dt * 50000000;
-            System.out.printf("Giá khu đất kích thước %.2f x %.2f là %.2f", chieuDai, chieuRong, tien);
+            System.out.printf("Giá khu đất kích thước %.2f x %.2f là %.2f",
+                    chieuDai, chieuRong, tien);
         }
         else{
             // In ra khong hop le

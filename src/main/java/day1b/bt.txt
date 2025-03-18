@@ -12,7 +12,10 @@ Bậc 1 = lương cơ sở
 Bậc 2 = lương cơ sở + 2 * 1500000
 Bậc 3 = 1.2 x lương cơ sở + 3 * 1500000
 
-Hãy nhập lương cơ sở và số bậc, sau đó in ra số lương nhận được.
+Hãy nhập lương cơ sở và số bậc, sau đó in ra
+số lương nhận được.
 
 # Input: lương cơ sở (>0), bậc 1 - 3
 # Output: lương
+# lương cs 10tr, với 3 bậc lần lượt
+# 10tr, 13tr và 16,5tr

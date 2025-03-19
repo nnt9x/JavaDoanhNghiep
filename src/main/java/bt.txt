@@ -111,5 +111,11 @@ Bước 1: cần định nghĩa class HinhChuNhat
 Bước 2: Viết main -> tạo các tạo đối tượng HCN và thực thi các phương
 thức bên trong nó.
 
+16. Một phòng ban có 10 nhân viên, mỗi nhân viên có mức lương, bậc lương khác nhau.
+a. In ra thông tin của từng nhân viên.
+b. In ra mức lương trung bình.
+c. Có bao nhiêu có mức lương cao hơn trung bình.
+
+Mỗi nhân viên: mã, họ tên, năm sinh, địa chỉ, lương.
 
 

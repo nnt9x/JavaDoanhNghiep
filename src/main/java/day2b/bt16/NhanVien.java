@@ -7,6 +7,7 @@ public class NhanVien {
     public int namSinh;
     public String diaChi;
     public int luong;
+    public int bacLuong = 1;
 
     // Phuong thuc khoi tao: constructor
     public NhanVien(String maNhanVien, String tenNhanVien, int namSinh, String diaChi, int luong) {
@@ -17,6 +18,7 @@ public class NhanVien {
         this.luong = luong;
     }
     // toString
+
     @Override
     public String toString() {
         return "NhanVien{" +
@@ -25,6 +27,8 @@ public class NhanVien {
                 ", namSinh=" + namSinh +
                 ", diaChi='" + diaChi + '\'' +
                 ", luong=" + luong +
+                ", bacLuong=" + bacLuong +
                 '}';
     }
 }
+

@@ -74,3 +74,14 @@ Trâu đứng: x, nằm: y, già: z
 
 x + y + z = 100 -> z <= 98
 Tối thiểu z ? 3;  for(z=3; z<=98; z=z+3)
+
+11. In ra các số từ 1 đến 10 bằng vòng lặp while ?
+i = 1
+
+12. Viết chương trình mô phỏng đăng nhập, người dùng
+được nhập tối đa 3 lần.
+User mặc định là admin, admin.
+
+Nếu nhập sai 3 lần => "Không thể đăng nhập"
+Nếu nhập đúng => "Đăng nhập thành công"
+(Gợi ý: break)

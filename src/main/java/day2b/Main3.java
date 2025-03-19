@@ -11,6 +11,9 @@ public class Main3 {
         System.out.println("Dien tich hinh vuong 2: " + hv2.dienTich());
         System.out.println("Dien tich hinh vuong 3: " + hv3.dienTich());
 
+        // Dien tich trung binh
+        double tb = (hv1.dienTich()+ hv2.dienTich() + hv3.dienTich())/3;
+        System.out.println("Dien tich: " + tb);
 
     }
 }

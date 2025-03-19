@@ -99,5 +99,10 @@ Bội chung nhỏ nhất 3 và 7 là 21.
 Tạo 3 đối tượng hình vuông và in ra chu vi, diện tích
 của từng hình.
 
+15. Tạo 1 class HinhChuNhat, cho phép tính chu vi, diện tích.
+Hãy xác định các thuộc tính, phương thức phù hợp. Sau đó tạo
+2 đối tượng. 1 đối tượng nhập dữ liệu từ bàn phím, và 1 nhập trực tiếp.
+In ra tổng chu vi của 2 hình đó.
+
 
 

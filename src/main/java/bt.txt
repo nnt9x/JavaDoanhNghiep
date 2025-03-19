@@ -91,3 +91,13 @@ Nếu nhập đúng => "Đăng nhập thành công"
 *  Nhập a, b = [10, 100]
 Bội chung nhỏ nhất 3 và 7 là 21.
 * Nếu a , b = [10, 20] -> ghi là không có.
+
+14. Tạo 1 lớp hình vuông có cạnh a.
+- Thuộc tính: a (double) >0
+- Phương thức: chu vi, diện tích.
+
+Tạo 3 đối tượng hình vuông và in ra chu vi, diện tích
+của từng hình.
+
+
+

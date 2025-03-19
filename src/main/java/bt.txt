@@ -80,7 +80,7 @@ i = 1
 
 12. Viết chương trình mô phỏng đăng nhập, người dùng
 được nhập tối đa 3 lần.
-User mặc định là admin, admin.
+User mặc định là 'admin', 'admin'.
 
 Nếu nhập sai 3 lần => "Không thể đăng nhập"
 Nếu nhập đúng => "Đăng nhập thành công"

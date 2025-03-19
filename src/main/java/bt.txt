@@ -104,5 +104,12 @@ Hãy xác định các thuộc tính, phương thức phù hợp. Sau đó tạo
 2 đối tượng. 1 đối tượng nhập dữ liệu từ bàn phím, và 1 nhập trực tiếp.
 In ra tổng chu vi của 2 hình đó.
 
+* Thuộc tính: chiều dài, chiều rộng : double
+* Phương thức: chuVi, dienTich
+
+Bước 1: cần định nghĩa class HinhChuNhat
+Bước 2: Viết main -> tạo các tạo đối tượng HCN và thực thi các phương
+thức bên trong nó.
+
 
 

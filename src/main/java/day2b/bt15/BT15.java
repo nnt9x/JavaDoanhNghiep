@@ -1,5 +1,7 @@
 package day2b.bt15;
 
+import day2b.HinhVuong;
+
 import java.util.Scanner;
 
 public class BT15 {
@@ -15,5 +17,9 @@ public class BT15 {
         // Tao doi tuong hinh chu nhat 2
         HinhChuNhat hcn2 = new HinhChuNhat(a, b);
         System.out.println("Chu vi: " + hcn2.chuVi());
+
+        // Su dung class HinhVuong
+        HinhVuong hv = new HinhVuong(10);
+        System.out.println("Chu vi hinh vuong: " + hv.chuVi());
     }
 }

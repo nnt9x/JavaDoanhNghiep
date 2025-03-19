@@ -85,3 +85,9 @@ User mặc định là 'admin', 'admin'.
 Nếu nhập sai 3 lần => "Không thể đăng nhập"
 Nếu nhập đúng => "Đăng nhập thành công"
 (Gợi ý: break)
+
+13. Tìm bội chung nhỏ nhất của 3 và 7 trong đoạn
+[a, b]
+*  Nhập a, b = [10, 100]
+Bội chung nhỏ nhất 3 và 7 là 21.
+* Nếu a , b = [10, 20] -> ghi là không có.

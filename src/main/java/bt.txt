@@ -140,4 +140,5 @@ Tạo class OTo kế thừa từ class PhuongTien, thêm thuộc tính
 mức tiêu thụ (6l/km), và toString
 
 a. Tạo ra 2 đối tượng xe máy và ô tô.
-b . In ra thông tin của hai đối tượng trên.
+b. In ra thông tin của hai đối tượng trên.
+

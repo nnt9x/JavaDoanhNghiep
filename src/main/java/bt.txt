@@ -119,8 +119,8 @@ c. Có bao nhiêu có mức lương cao hơn trung bình.
 Mỗi nhân viên: mã, họ tên, năm sinh, địa chỉ, lương.
 
 17. Tạo 1 class Ô tô, có các thuộc tính:
-- mã xe, tên xe, dung tích xi lanh, tốc độ cao nhất, tốc độ
-thấp nhất (đi trên cao tốc). (km/h)
+- mã xe (String), tên xe (String), dung tích xi lanh (double),
+tốc độ cao nhất, tốc độ thấp nhất (đi trên cao tốc). (km/h)
 - phương thức:
 + Phương thức khởi tạo
 + Setter(), getter()
@@ -128,3 +128,4 @@ thấp nhất (đi trên cao tốc). (km/h)
 di chuyển với tốc độ TB: (cao + thấp)/2
 
 VD: xe 200km, 60km -> TB: 130km/h; A=>B: 300km -> hết 2h18phút
+# t=2.3  -> h=(int)t = 2 -> m = (t-h)*60 = 18 phút

@@ -10,8 +10,10 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         Oto oto2 = NhapXe.nhapXe(scanner);
+        oto2.setTieuThu(6); // xe 2 tieu thu 6l/100
         double t2 = oto2.tinhThoiGianDiChuyen(400);
         System.out.println("Thời gian di chuyển: " + FormatTime.formatTime(t2));
+        System.out.println("Xe 2 tieu thu het: " + oto2.tinhMucTieuThu(400));
 
         scanner.close();
     }

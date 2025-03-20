@@ -60,4 +60,8 @@ public class NhanVien {
     public void setGioiTinh(String gioiTinh) {
         this.gioiTinh = gioiTinh;
     }
+    // Tinh nang moi
+    public void kiemTraMucLuong(){
+        System.out.println("Muc luong hien co ...");
+    }
 }

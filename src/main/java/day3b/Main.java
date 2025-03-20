@@ -6,5 +6,6 @@ public class Main {
         // In ra thong tin ho ten va dia chi
         System.out.println(it1.getHoTen());
         System.out.println(it1.getDiaChi());
+        it1.kiemTraMucLuong();
     }
 }

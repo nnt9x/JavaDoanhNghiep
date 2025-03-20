@@ -129,3 +129,15 @@ di chuyển với tốc độ TB: (cao + thấp)/2
 
 VD: xe 200km, 60km -> TB: 130km/h; A=>B: 300km -> hết 2h18phút
 # t=2.3  -> h=(int)t = 2 -> m = (t-h)*60 = 18 phút
+
+18. Tạo 1 class PhuongTien có các thông tin sau:
+- tên phương tiện, dung tích xi lanh, màu sắc và giá.
+
+Tạo class XeMay kế thừa từ class PhuongTien, thêm thuộc
+tính: loại (thể thao ...), và toString
+
+Tạo class OTo kế thừa từ class PhuongTien, thêm thuộc tính
+mức tiêu thụ (6l/km), và toString
+
+a. Tạo ra 2 đối tượng xe máy và ô tô.
+b . In ra thông tin của hai đối tượng trên.

@@ -12,4 +12,9 @@ public class MyAuthen extends LibAuthen{
         return false;
     }
 
+    public boolean login(int phone, String password){
+        // Logic: login...
+        return true;
+    }
+
 }
